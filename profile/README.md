@@ -18,4 +18,4 @@
 
 | Description | Link | Status |
 |-|-|-|
-| Plotter | (plotter)[https://github.com/techtile-by-dramco/plotter] | ⌛ Almost completed |
+| Techtile plotter (incl. antennas) | [plotter](https://github.com/techtile-by-dramco/plotter) | ⌛ Almost completed |
