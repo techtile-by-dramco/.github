@@ -1,5 +1,13 @@
-# Hi there 👋 Welcome to the Techtile Repository
+# 👋 Welcome to the Techtile Repository 👋
 
-## Energy Neutrql Device
+## Energy Neutral Device
+- Hadware design 
 
-- Hadare design
+## USRP Synchronisation 
+
+| Description | Link | Status |
+|-|-|-|
+| Hardware, firmware, info B210 | [NI-B210-Sync](https://github.com/techtile-by-dramco/NI-B210-Sync) | |
+| Design files of RPI 4 HAT | [hat-board](https://github.com/techtile-by-dramco/hat-board) | ❗ UPDATES required ❗ |
+| Design files and firmware PLL board | [reciprocity-calibration-hardware](https://github.com/techtile-by-dramco/reciprocity-calibration-hardware) | ❗ UPDATES required ❗ |
+| Switch board | ? | ? |
