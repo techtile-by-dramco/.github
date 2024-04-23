@@ -35,3 +35,16 @@
 | Description | Link | Status |
 |-|-|-|
 | Techtile plotter (incl. antennas) | [plotter](https://github.com/techtile-by-dramco/plotter) | ⌛ Almost completed |
+
+## Rover
+
+| Description | Link | Status |
+|-|-|-|
+| Rover information | [rover](https://github.com/techtile-by-dramco/rover) | |
+
+## Infrastructure
+
+| Description | Link | Status |
+|-|-|-|
+| Infrastructure | [infrastructure](https://github.com/techtile-by-dramco/infrastructure) | |
+
