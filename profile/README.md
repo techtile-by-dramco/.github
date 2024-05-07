@@ -5,7 +5,7 @@
 | Description | Link | Status |
 |-|-|-|
 | Ansible | [ansible](https://github.com/techtile-by-dramco/ansible) | |
-| USRP FPGA images | [fpga](https://github.com/techtile-by-dramco/fpga) | |
+| USRP FPGA/firmware/host files | [ursp](https://github.com/techtile-by-dramco/usrp) | |
 
 ## USRP Synchronisation 
 
