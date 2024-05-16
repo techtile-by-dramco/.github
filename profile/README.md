@@ -36,6 +36,7 @@
 | Description | Link | Status |
 |-|-|-|
 | Techtile plotter (incl. antennas) | [plotter](https://github.com/techtile-by-dramco/plotter) | ⌛ Almost completed |
+| Scope |  [scope](https://github.com/techtile-by-dramco/scope) | 🚧 Under construction |
 
 ## Rover
 
