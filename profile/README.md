@@ -20,10 +20,10 @@
 
 | Description | Link | Status |
 |-|-|-|
-| Reindeer experiments | [experiments](https://github.com/techtile-by-dramco/experiments) | |
-| Company experiments | [niko-measurements](https://github.com/techtile-by-dramco/niko-measurements) | |
-| Closed loop approach paper | [cla-paper-measurements](https://github.com/techtile-by-dramco/cla-paper-measurements) |
-| Inital access END paper | [wpt-signals-for-initial-access]([https://github.com/techtile-by-dramco/cla-paper-measurements](https://github.com/techtile-by-dramco/wpt-signals-for-initial-access/)) |
+| Reindeer experiments | [experiments](https://github.com/techtile-by-dramco/experiments) | 🤏 Partially executed |
+| Company experiments | [niko-measurements](https://github.com/techtile-by-dramco/niko-measurements) | ✅ Finalised |
+| Closed loop approach paper | [cla-paper-measurements](https://github.com/techtile-by-dramco/cla-paper-measurements) | 🚧 Under construction |
+| Inital access END paper | [wpt-signals-for-initial-access](https://github.com/techtile-by-dramco/wpt-signals-for-initial-access/) | ⌛ Almost completed |
 
 ## Energy Neutral Device
 | Description | Link | Status |
