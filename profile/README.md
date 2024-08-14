@@ -50,5 +50,6 @@
 
 | Description | Link | Status |
 |-|-|-|
-| Infrastructure | [infrastructure](https://github.com/techtile-by-dramco/infrastructure) | |
+| Infrastructure | [infrastructure](https://github.com/techtile-by-dramco/infrastructure) | ✅ Finalised |
+| POE PD | [power-delivery-poe-pd](https://github.com/techtile-by-dramco/power-delivery-poe-pd) | ✅ Finalised |
 
