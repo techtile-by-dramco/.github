@@ -1,4 +1,4 @@
-# 👋 Welcome to the Techtile Repository 👋
+# 👋 Welcome to the Techtile Organisation 👋
 
 ## Organisation and scripting
 
