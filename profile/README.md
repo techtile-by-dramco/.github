@@ -38,6 +38,7 @@
 |-|-|-|
 | Techtile plotter (incl. antennas) | [plotter](https://github.com/techtile-by-dramco/plotter) | ⌛ Almost completed |
 | Scope |  [scope](https://github.com/techtile-by-dramco/scope) | 🚧 Under construction |
+| Qualisys location | [positioner](https://github.com/techtile-by-dramco/positioner) | ✅ Finalised |
 
 ## Rover
 
