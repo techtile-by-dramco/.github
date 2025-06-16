@@ -24,6 +24,7 @@
 | Company experiments | [niko-measurements](https://github.com/techtile-by-dramco/niko-measurements) | ✅ Finalised |
 | Closed loop approach paper | [cla-paper-measurements](https://github.com/techtile-by-dramco/cla-paper-measurements) | 🚧 Under construction |
 | Inital access END paper | [wpt-signals-for-initial-access](https://github.com/techtile-by-dramco/wpt-signals-for-initial-access/) | ⌛ Almost completed |
+| CSI collection Tianzheng | [Techtile Channel Measurement](https://github.com/Agata872/Techtile_Channel_Measurement.git) |  ✅ Finalised |
 
 ## Energy Neutral Device
 | Description | Link | Status |
