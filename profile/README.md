@@ -16,7 +16,7 @@
 | Detailed calibration study | [NI-B210-Sync/experiments](https://github.com/techtile-by-dramco/NI-B210-Sync/tree/main/experiments) | |
 | Design RPI 4 HAT | [hat-board](https://github.com/techtile-by-dramco/hat-board) | ❗❗ UPDATES required |
 | Design and firmware PLL board | [reciprocity-calibration-hardware](https://github.com/techtile-by-dramco/reciprocity-calibration-hardware) | ❗❗ UPDATES required |
-| Switch board | ❓ | ❓ |
+| Switch board | ❌ Not required ❌ |  |
 
 ## Techtile experiments
 
