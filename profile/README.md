@@ -11,7 +11,7 @@
 
 | Description | Link | Status |
 |-|-|-|
-| Install UHD | [UHD - RPI install](https://github.com/techtile-by-dramco/raspberrypi-uhd) | |
+| Install UHD | [UHD - RPI install](https://github.com/techtile-by-dramco/raspberrypi-uhd) | ✅ Last update 2025-09-02 |
 | Information USRP B210 | [NI-B210-Sync](https://github.com/techtile-by-dramco/NI-B210-Sync) | |
 | Detailed calibration study | [NI-B210-Sync/experiments](https://github.com/techtile-by-dramco/NI-B210-Sync/tree/main/experiments) | |
 | Design RPI 4 HAT | [hat-board](https://github.com/techtile-by-dramco/hat-board) | ❗❗ UPDATES required |
