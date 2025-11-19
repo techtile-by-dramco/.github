@@ -33,7 +33,7 @@
 
 | Description | Link | Status |
 |-|-|-|
-| Geometry Based Wireless Power Transfer | [Experiments with Ahmet](https://github.com/techtile-by-dramco/geometry-based-wireless-power-transfer) | 🚧 Under construction |
+| Geometry Based Wireless Power Transfer | [Link to experiment](https://github.com/techtile-by-dramco/geometry-based-wireless-power-transfer) | 🚧 Under construction |
 
 ## Energy Neutral Device
 
