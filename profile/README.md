@@ -23,14 +23,20 @@
 | Description | Link | Status |
 |-|-|-|
 | DLI | [Experiments with Ahmet](https://github.com/techtile-by-dramco/DLI_Validation) | 🚧 Under construction |
-| Distributed Beamforming | [Experiments](https://github.com/techtile-by-dramco/distributed-beamforming) | 🚧 Under construction |
 | Reindeer experiments | [experiments](https://github.com/techtile-by-dramco/experiments) | 🤏 Partially executed |
 | Company experiments | [niko-measurements](https://github.com/techtile-by-dramco/niko-measurements) | ✅ Finalised |
 | Closed loop approach paper | [cla-paper-measurements](https://github.com/techtile-by-dramco/cla-paper-measurements) | 🚧 Under construction |
 | Inital access END paper | [wpt-signals-for-initial-access](https://github.com/techtile-by-dramco/wpt-signals-for-initial-access/) | ⌛ Almost completed |
 | CSI collection Tianzheng | [Techtile Channel Measurement](https://github.com/Agata872/Techtile_Channel_Measurement.git) |  ✅ Finalised |
 
+## Wireless Power Transfer Experiments
+
+| Description | Link | Status |
+|-|-|-|
+| Geometry Based Wireless Power Transfer | [Experiments with Ahmet](https://github.com/techtile-by-dramco/geometry-based-wireless-power-transfer) | 🚧 Under construction |
+
 ## Energy Neutral Device
+
 | Description | Link | Status |
 |-|-|-|
 | END hardware design | [END-design](https://github.com/techtile-by-dramco/END-design) | |
