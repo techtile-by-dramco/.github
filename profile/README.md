@@ -63,7 +63,5 @@
 | Description | Link | Status |
 |-|-|-|
 | Infrastructure | [infrastructure](https://github.com/techtile-by-dramco/infrastructure) | ✅ Finalised |
-| XY plotter | [plotter](https://github.com/techtile-by-dramco/plotter) | ✅ Finalised |
-| Positioner | [positioner](https://github.com/techtile-by-dramco/positioner) | ✅ Finalised |
 | POE PD | [power-delivery-poe-pd](https://github.com/techtile-by-dramco/power-delivery-poe-pd) | ✅ Finalised |
 
