@@ -57,7 +57,7 @@
 |-|-|-|
 | Rover information | [rover](https://github.com/techtile-by-dramco/rover) | |
 | Thesis student achievements | [FRIPS_MCU](https://github.com/techtile-by-dramco/FRIPS_MCU) | |
-| XY plotter controller | [driver](https://github.com/techtile-by-dramco/xy-plotter-controller/tree/main) | |
+| XY plotter controller | [driver](https://github.com/techtile-by-dramco/xy-plotter-controller) | |
 
 ## Infrastructure
 
