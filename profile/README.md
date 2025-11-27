@@ -42,7 +42,7 @@
 | END hardware design | [END-design](https://github.com/techtile-by-dramco/END-design) | |
 | END backscatter | [EN-device-backscatter](https://github.com/techtile-by-dramco/EN-device-backscatter) | |
 | END experiments | [end-experiments](https://github.com/techtile-by-dramco/end-experiments) | |
-| Energy Profiler | [docs](https://github.com/techtile-by-dramco/END-design/tree/main/00-END-EF-Profiler) | |
+| Energy Profiler | [documentation](https://github.com/techtile-by-dramco/energy-profiler) | |
 
 ## Techtile specific python packages
 
