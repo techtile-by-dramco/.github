@@ -5,7 +5,7 @@
 | Description | Link | Status |
 |-|-|-|
 | Tile Management | [Repository](https://github.com/techtile-by-dramco/tile-management)| 🚧 Under construction |
-| Demo Experimenet | [Repository](https://github.com/techtile-by-dramco/demo-experiment)| 🚧 Under construction |
+| Demo Experiment | [Repository](https://github.com/techtile-by-dramco/demo-experiment)| 🚧 Under construction |
 | Ansible | [ansible](https://github.com/techtile-by-dramco/ansible) | 🪦 Depreciated |
 | USRP FPGA/firmware/host files | [ursp](https://github.com/techtile-by-dramco/usrp) | |
 
