@@ -73,7 +73,7 @@
 
 | Description | Link | Status |
 |-|-|-|
-| Qualisys | [QILS driver](https://github.com/techtile-by-dramco/QILS) | 🚧 Under construction |
+| Qualisys | [QILS driver](https://github.com/techtile-by-dramco/qualisys-indoor-localisation-system) | 🚧 Under construction |
 | Acoustic | [AILS driver](https://github.com/techtile-by-dramco/AILS) | 🚧 Under construction |
 | Visual Light | [VILS driver](https://github.com/techtile-by-dramco/VILS) | 🚧 Under construction |
 | Ultra Wide Band | [UWBILS driver]() | 🤔 Suggestion |
