@@ -61,6 +61,7 @@
 | Rover information | [rover](https://github.com/techtile-by-dramco/rover) | |
 | Thesis student achievements | [FRIPS_MCU](https://github.com/techtile-by-dramco/FRIPS_MCU) | |
 | XY plotter controller | [driver](https://github.com/techtile-by-dramco/xy-plotter-controller) | 🚧 Under construction |
+| Energy Profiler Controller | [Repository](https://github.com/techtile-by-dramco/energy-profiler) | ✅ Finalised |
 
 ## Infrastructure
 
