@@ -43,7 +43,6 @@
 |-|-|-|
 | END hardware design | [END-design](https://github.com/techtile-by-dramco/END-design) | |
 | END backscatter | [EN-device-backscatter](https://github.com/techtile-by-dramco/EN-device-backscatter) | |
-| END experiments | [end-experiments](https://github.com/techtile-by-dramco/end-experiments) | |
 
 ## Techtile specific python packages
 
